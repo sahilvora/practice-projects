@@ -1,5 +1,6 @@
 '''
 goal: take stock ticker symbols from user & return last price
+adapted from https://github.com/dotslash/Projects/blob/master/solutions/quotes.py
 
 1. ask user for ticker symbol input (quotes)
 2. clean quotes by removing trailing whitespace
