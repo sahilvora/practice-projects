@@ -13,8 +13,6 @@ goal: take stock ticker symbols from user & return last price
 10. print formatted result using json.dumps() 
 '''
 
-
-
 import urllib   # https://docs.python.org/2/library/urllib.html
 import sys      # https://docs.python.org/2/library/sys.html
 import json     # https://docs.python.org/2/library/json.html
