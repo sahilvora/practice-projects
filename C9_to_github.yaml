@@ -1,0 +1,7 @@
+#
+# using C9 with Github
+#
+ 
+git add -A : adds all newly created files to git repo
+git commit -a -m 'message' : commits changes and shows changes
+git push : merges updates with master
