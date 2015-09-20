@@ -1,6 +1,7 @@
 #
 # using C9 with Github
 #
+# sources: http://www.foobt.net/spring2014/csci21_2545/files/guide-github-cloud9.html
  
 git add -A : adds all newly created files to git repo
 git commit -a -m 'message' : commits changes and shows changes
