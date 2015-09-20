@@ -66,5 +66,6 @@ res = urllib.urlopen(url).read() # open url for reading to get JSON string
 # 'results' is dictionary within 'query' dictionary
 res = json.loads(res)['query']['results'] 
 
+
 # .dumps() for pretty printing of dictionary input
 print json.dumps(res, indent=4, sort_keys=True)
