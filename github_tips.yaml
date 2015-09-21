@@ -7,9 +7,15 @@ git push : merges updates with master
 git status : master vs branch modifications
 git pull : merging updates from master into branch
 
-# excluding files from github using .gitignore
+# excluding files from github using .gitignore 
+# use to avoid API key exposure
 # - https://help.github.com/articles/ignoring-files/
+# - https://rosspenman.com/api-key-exposure/
 
 1. create file in working directory called '.gitignore'
-2. add names of files to ignore to .gitignore (now eve
+2. add names of files to ignore to .gitignore
 3. can use shortcuts too, like *.py to ignore all python files
+
+# other guides
+# - http://burnedpixel.com/blog/setting-up-git-and-github-on-your-mac/
+# - https://www.youtube.com/watch?v=0fKg7e37bQE
